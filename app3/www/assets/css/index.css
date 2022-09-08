@@ -1,0 +1,683 @@
+.p-0 {
+    padding: 0px !important;
+}
+
+.pl-0 {
+    padding-left: 0px !important;
+}
+
+.pr-0 {
+    padding-right: 0px !important;
+}
+
+.p-5 {
+    padding: 5px !important;
+}
+
+.p-10 {
+    padding: 10px !important;
+}
+
+.p-15 {
+    padding: 15px !important;
+}
+
+.p-20 {
+    padding: 20px !important;
+}
+
+.pl-5 {
+    padding-left: 5px !important;
+}
+
+.pl-10 {
+    padding-left: 10px !important;
+}
+
+.pl-15 {
+    padding-left: 15px !important;
+}
+
+.pl-20 {
+    padding-left: 20px !important;
+}
+
+.pl_5 {
+    padding-left: -5px !important;
+}
+
+.pl_10 {
+    padding-left: -10px !important;
+}
+
+.pl_15 {
+    padding-left: -15px !important;
+}
+
+.pl_20 {
+    padding-left: -20px !important;
+}
+
+.pr-5 {
+    padding-right: 5px !important;
+}
+
+.pr-10 {
+    padding-right: 10px !important;
+}
+
+.pr-15 {
+    padding-right: 15px !important;
+}
+
+.pr-20 {
+    padding-right: 20px !important;
+}
+
+.pt-0 {
+    padding-top: 0px !important;
+}
+
+.pt-5 {
+    padding-top: 5px !important;
+}
+
+.pt-10 {
+    padding-top: 10px !important;
+}
+
+.pt-15 {
+    padding-top: 15px !important;
+}
+
+.pt-20 {
+    padding-top: 20px !important;
+}
+
+.pb-0 {
+    padding-bottom: 0px !important;
+}
+
+.pb-5 {
+    padding-bottom: 5px !important;
+}
+
+.pb-10 {
+    padding-bottom: 10px !important;
+}
+
+.pb-15 {
+    padding-bottom: 15px !important;
+}
+
+.pb-20 {
+    padding-bottom: 20px !important;
+}
+
+
+.m-0 {
+    margin: 0px !important;
+}
+
+.ml-0 {
+    margin-left: 0px !important;
+}
+
+.ml-50 {
+    margin-left: 50px !important;
+}
+
+.ml-100 {
+    margin-left: 100px !important;
+}
+
+.ml-125 {
+    margin-left: 125px !important;
+}
+
+.mr-0 {
+    margin-right: 0px !important;
+}
+
+.m-5 {
+    margin: 5px !important;
+}
+
+.m-10 {
+    margin: 10px !important;
+}
+
+.m-15 {
+    margin: 15px !important;
+}
+
+.m-20 {
+    margin: 20px !important;
+}
+
+.ml-5 {
+    margin-left: 5px !important;
+}
+
+.ml-10 {
+    margin-left: 10px !important;
+}
+
+.ml-15 {
+    margin-left: 15px !important;
+}
+
+.ml_5 {
+    margin-left: -5px !important;
+}
+
+.ml_10 {
+    margin-left: -10px !important;
+}
+
+.ml_15 {
+    margin-left: -15px !important;
+}
+
+.ml_20 {
+    margin-left: -20px !important;
+}
+
+.mr-5 {
+    margin-right: 5px !important;
+}
+
+.mr-10 {
+    margin-right: 10px !important;
+}
+
+.mr-15 {
+    margin-right: 15px !important;
+}
+
+.mr-20 {
+    margin-right: 20px !important;
+}
+
+.mr_5 {
+    margin-right: -5px !important;
+}
+
+.mr_10 {
+    margin-right: -10px !important;
+}
+
+.mr_15 {
+    margin-right: -15px !important;
+}
+
+.mr_20 {
+    margin-right: -20px !important;
+}
+
+.mt-3 {
+    margin-top: 3px !important;
+}
+
+.mt-5 {
+    margin-top: 5px !important;
+}
+
+.mt-10 {
+    margin-top: 10px !important;
+}
+
+.mt-12 {
+    margin-top: 12px !important;
+}
+
+.mt-15 {
+    margin-top: 15px !important;
+}
+
+.mt-20 {
+    margin-top: 20px !important;
+}
+
+.mt-40 {
+    margin-top: 40px !important;
+}
+
+.mt-60 {
+    margin-top: 60px !important;
+}
+
+.mt-105 {
+    margin-top: 105px !important;
+}
+
+.mt_5 {
+    margin-top: -5px !important;
+}
+
+.mt_10 {
+    margin-top: -10px !important;
+}
+
+.mt_15 {
+    margin-top: -15px !important;
+}
+
+.mt_20 {
+    margin-top: -20px !important;
+}
+
+.mb-5 {
+    margin-bottom: 5px !important;
+}
+
+.mb-10 {
+    margin-bottom: 10px !important;
+}
+
+.mb-15 {
+    margin-bottom: 15px !important;
+}
+
+.mb-20 {
+    margin-bottom: 20px !important;
+}
+
+.mb_5 {
+    margin-bottom: -5px !important;
+}
+
+.mb_10 {
+    margin-bottom: -10px !important;
+}
+
+.mb_15 {
+    margin-bottom: -15px !important;
+}
+
+.mb_20 {
+    margin-bottom: -20px !important;
+}
+
+
+.round-5 {
+    border-radius: 5px !important;
+}
+
+.round-10 {
+    border-radius: 10px !important;
+}
+
+.round-15 {
+    border-radius: 15px !important;
+}
+
+.round-20 {
+    border-radius: 20px !important;
+}
+
+.round-50 {
+    border-radius: 50px !important;
+}
+
+
+.underline {
+    text-decoration: underline;
+}
+
+.fa-1_5x {
+    font-size: 1.5em;
+}
+
+.fa-2x {
+    font-size: 2em;
+}
+
+.fa-1_3x {
+    font-size: 1.3em;
+}
+
+.bottom-sheet {
+    min-height: 100% !important;
+}
+
+.cursor {
+    cursor: pointer !important;
+}
+
+.destaque {
+    color: #E00185;
+}
+
+.strong {
+    font-weight: bold;
+}
+
+.round-right {
+    border-radius: 0px 5px 5px 0px;
+}
+
+.round-left {
+    border-radius: 5px 0px 0px 5px;
+}
+
+.html,
+body {
+    margin: 0px !important;
+    padding: 0px !important;
+    height: 100vh;
+    width: 100vw;
+}
+
+.container {
+    height: 100vh !important;
+    width: 100vw !important;
+    max-width: none !important;
+}
+
+#splash {
+    display: block;
+    background: radial-gradient(50% 50% at 50% 50%, #FDEB7B 0%, #FEDB00 100%);
+    height: 100vh !important;
+    width: 100vw !important;
+}
+
+#splash img {
+    position: absolute;
+    top: 26%;
+    width: 50%;
+    left: calc(50% - 25%);
+}
+
+#Inicial {
+    display: block;
+    background: radial-gradient(50% 50% at 50% 50%, #FDEB7B 0%, #FEDB00 100%);
+    height: 100vh !important;
+    width: 100vw !important;
+}
+
+#Inicial img {
+    position: relative;
+    width: 166px;
+    height: 247px;
+    left: calc(50% - 83px);
+    top: 47px;
+}
+
+.cardInicial {
+    background-size: cover;
+    background-position-y: -50px;
+    height: 80vh;
+    width: 100vw;
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+.cardInicial .card {
+    position: relative;
+    min-height: 450px;
+
+    border-radius: 30px !important;
+    background: rgba(255, 255, 255, 0.7);
+}
+
+#Bullet {
+    display: block;
+    background: radial-gradient(50% 50% at 50% 50%, #FDEB7B 0%, #FEDB00 100%);
+    height: 100vh !important;
+    width: 100vw !important;
+}
+
+
+
+
+
+#BottomBullet {
+    position: fixed;
+    width: 420px;
+    height: 420px;
+    left: calc(50% - 210px);
+    bottom: 10px;
+    background: #FFFFFF;
+    border-radius: 128px;
+    transform: rotate(45deg);
+    margin-right: 0px !important;
+}
+
+
+.formCadastroLogin {
+    background: #FFFFFF;
+    border-radius: 10px;
+}
+
+.formCadastroLogin input {
+    border-bottom: 1px solid transparent !important;
+}
+
+#btnEntrar {
+    border-radius: 50px;
+    width: 360px;
+    height: 40px;
+    left: calc(50% - 180px);
+}
+
+#btnCadastrar {
+    border-radius: 50px;
+    width: 360px;
+    height: 40px;
+    left: calc(50% - 180px);
+}
+
+#btnRecuperar {
+    border-radius: 50px;
+    width: 360px;
+    height: 40px;
+    left: calc(50% - 180px);
+}
+
+#btnBullet {
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+    height: 260px;
+    background: #fff;
+    font-size: 23px;
+    text-align: center;
+}
+
+#btnBullet img {
+    width: 100px !important;
+    /* margin-left: calc(50% - 50px) !important; */
+    position: relative;
+    top: -60px;
+}
+
+#btnBullet span {
+    color: #02ADA7;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.CardPost {
+    background-size: cover !important;
+    height: 338px;
+    border-radius: 10px !important;
+    overflow: hidden;
+}
+
+.Post1 {
+    background: url(../img/pug.png) top center no-repeat;
+}
+
+.Post2 {
+    background: url(../img/cat.png) top center no-repeat;
+}
+
+.Post3 {
+    background: url(../img/Lorem.png) top center no-repeat;
+}
+
+.Avatar img {
+    position: absolute;
+}
+
+.btnMenu {
+    position: fixed;
+    bottom: 40px;
+    background: #FFFFFF;
+    border: 1px solid #DDDDDD;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 18px;
+    padding: 7px !important;
+}
+
+.btnMenu div {
+    width: 20%;
+    float: left;
+}
+
+
+.MyPet {
+    background-size: inherit;
+    height: 226px;
+    border-radius: 10px;
+}
+
+.Pet1 {
+    background: url(../img/charlie.png) top center no-repeat;
+}
+
+.Pet2 {
+    background: url(../img/milo.png) top center no-repeat;
+}
+
+.cardPet {
+    height: 50px;
+    border-radius: 20px 20px 20px 20px;
+    opacity: 0.7;
+    width: 100%;
+    margin-top: 100%;
+    overflow: hidden;
+}
+
+.btnLike {
+    margin-top: 65%;
+    overflow: hidden;
+    background: linear-gradient(to bottom, transparent 10%, black 100%);
+    height: 50px;
+    border-radius: 0px 0px 10px 10px;
+}
+
+.CardTop {
+    background: linear-gradient(to top, transparent 10%, black 100%);
+    border-radius: 10px 10px 0px 0px;
+}
+
+.Loja1 {
+    background: url(../img/loja1.png) top center no-repeat;
+}
+
+.Loja2 {
+    background: url(../img/loja2.png) top center no-repeat;
+}
+
+.CardDetalhePet {
+    background-size: cover !important;
+    height: 507px;
+    overflow: hidden;
+}
+
+.DetalhePet {
+    background: url(../img/detalhePet.png) top center no-repeat;
+}
+
+.CardTopPet {
+    background: linear-gradient(to top, transparent 10%, black 100%);
+}
+
+.btnCircle {
+    margin-top: -25%;
+}
+
+.btnInfoPet {
+    position: fixed;
+    bottom: 0px;
+    background: #FFFFFF;
+    border-radius: 60px;
+    height: 415px;
+    width: 415px !important;
+}
+
+.CardDetalheLoja {
+    background-size: cover !important;
+    height: 294px;
+    overflow: hidden;
+}
+
+.DetalheLoja {
+    background: url(../img/detalheLoja.png) top center no-repeat;
+}
+
+.btnInfoLoja {
+    position: fixed;
+    bottom: 0px;
+    background: #fafafa;
+    height: 595px;
+    width: 415px !important;
+}
+
+.btnLoja {
+    width: 404px !important;
+    height: 124px;
+    background: #FFFFFF;
+    border-radius: 47px;
+    top: -6%;
+    position: absolute;
+}
+
+.MyProduto {
+    background-size: inherit;
+    height: 187px;
+    border-radius: 10px;
+}
+
+.Produto1 {
+    background: url(../img/shampoo.png) top center no-repeat;
+}
+
+.Produto2 {
+    background: url(../img/biscoito.png) top center no-repeat;
+}
+
+.cardProduto {
+    height: 50px;
+    border-radius: 20px 20px 20px 20px;
+    opacity: 0.7;
+    width: 100%;
+    margin-top: 82%;
+    overflow: hidden;
+}
+
+.CardDetalheProduto {
+    background-size: cover !important;
+    height: 294px;
+    overflow: hidden;
+}
+
+.DetalheProduto {
+    background: url(../img/detalheShampoo.png) top center no-repeat;
+}
+
+.btnInfoProduto {
+    position: fixed;
+    bottom: 0px;
+    background: #FFFFFF;
+    border-radius: 60px;
+    height: 636px;
+    width: 415px !important;
+}
+
+.MotivoAlerta {
+    height: 85px;
+    border-radius: 15px;
+}
